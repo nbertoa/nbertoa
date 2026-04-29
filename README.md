@@ -26,5 +26,5 @@ I am a Level 4 SME (Subject Matter Expert) with over 14 years of experience in s
 ### 📫 Let's Connect
 
 - 🔗 **LinkedIn:** [linkedin.com/in/nicolasbertoa](https://www.linkedin.com/in/nicolasbertoa/)
-- 🌐 **Blog:** [nbertoa.wordpress.com](https://nbertoa.wordpress.com/)
+- 🌐 **Blog:** [nbertoa.com](https://nbertoa.com/)
 - 📬 **Email:** [nicobertoa@gmail.com](mailto:nicobertoa@gmail.com)
