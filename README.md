@@ -1,30 +1,47 @@
-# Hi there, I'm Nicolás Bertoa 👋
+# Hi, I'm Nicolás Bertoa 👋
 
-### Senior Unreal Developer | C++ Expert | Educator
+### Senior R&D Prototyping Engineer | Unreal Engine, C++ & Real-Time Technologies
 
-I am a Level 4 SME (Subject Matter Expert) with over 14 years of experience in software development. I specialize in **C/C++**, **Unreal Engine**, and **3D Math**, and I am deeply passionate about teaching and sharing knowledge with the dev community.
+I'm a software engineer with 15+ years of experience working on R&D projects for DreamWorks Animation and Sony Interactive Entertainment.
 
----
+I enjoy taking new technologies, ambiguous problems, and early-stage ideas and turning them into working prototypes, POCs, experiments, and technical solutions that help evaluate what is possible and what to do next.
 
-### 👨‍💻 About Me
+## 🔬 What I Do
 
-- 🏢 I’ve spent **9+ years** working in **DreamWorks R&D** and **5+ years** at **Sony R&D**, contributing to high-performance systems, cutting-edge production tools, and rendering engines.
-- 🔍 **Currently focusing on:** Experimenting with the latest features of **Unreal Engine**, building advanced personal projects, and exploring modern gameplay systems, AI, and interactive storytelling.
-- 📝 **Content Creator:** I actively document my learning journey, share reflections on game dev, and post architecture experiments on my [personal blog](https://nbertoa.wordpress.com/).
-- 🧩 **Outside of work:** I’m a proud Seventh-day Adventist, a father, and a long-time fan of *Age of Empires II*. I believe in purpose-driven creation and lifelong learning.
+- **R&D & Prototyping** — Exploring ideas, technologies, and technical approaches through practical experiments and working prototypes.
+- **Unreal Engine** — Building real-time interactive prototypes using C++, Blueprints, and Unreal Engine systems.
+- **C++ & Computer Graphics** — Background in performance-sensitive software, 3D mathematics, graphics, animation tooling, and production systems.
+- **Technical Exploration** — Investigating new tools, engine features, plugins, hardware capabilities, and implementation approaches.
+- **Documentation & Communication** — Documenting findings, explaining technical concepts, and sharing lessons learned.
 
----
+## 🧪 What You'll Find Here
 
-### 🛠️ Tech Stack & Expertise
+This GitHub is primarily a collection of personal experiments, prototypes, technical investigations, and learning projects.
 
-- **Languages:** C++, C
-- **Engines & Graphics:** Unreal Engine, Vulkan, DirectX 12
-- **Core Specialties:** Low-level Architecture, Memory Management, Rendering Techniques (Deferred Shading, PBR), Gameplay Ability System (GAS)
+My usual process is:
 
----
+**Question → Research → Prototype → Evaluate → Iterate → Document**
 
-### 📫 Let's Connect
+Some projects are small by design: their purpose is to answer a technical question or explore a technology rather than become a complete product.
 
-- 🔗 **LinkedIn:** [linkedin.com/in/nicolasbertoa](https://www.linkedin.com/in/nicolasbertoa/)
-- 🌐 **Blog:** [nbertoa.com](https://nbertoa.com/)
-- 📬 **Email:** [nicobertoa@gmail.com](mailto:nicobertoa@gmail.com)
+## 🛠️ Core Technologies
+
+- C++
+- Unreal Engine
+- Blueprints
+- Computer Graphics
+- Real-Time 3D
+- 3D Mathematics
+- OpenGL / GLSL
+- DirectX
+- Gameplay Ability System
+- Unreal Engine Tooling
+
+## 🎓 Teaching
+
+I'm also an **Unreal Authorized Instructor (Silver)**. Teaching and technical communication are an important part of how I work and learn.
+
+## 📫 Connect
+
+- 🌐 Portfolio: [nbertoa.com](https://nbertoa.com/)
+- 🔗 LinkedIn: [linkedin.com/in/nicolasbertoa](https://www.linkedin.com/in/nicolasbertoa/)
