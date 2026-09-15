@@ -24,6 +24,13 @@ My usual process is:
 
 Some projects are small by design: their purpose is to answer a technical question or explore a technology rather than become a complete product.
 
+## 🚀 Selected Work
+
+- **[BertaDevKit](https://github.com/nbertoa/ue5-bertadevkit)** — Reusable Unreal Engine C++ runtime/editor tooling, debugging utilities, project validation, and native DualSense support.
+- **[Gameplay Ability System Prototype](https://github.com/nbertoa/ue5-gas-prototype)** — GAS architecture experiments with native gameplay tags, Enhanced Input, reactive UI, and different ASC ownership patterns.
+- **[Common UI Frontend](https://github.com/nbertoa/ue5-frontend-ui-common-ui)** — Data-driven Unreal Engine frontend built with Common UI, async widget loading, navigation stacks, and settings integration.
+- **[Unreal Agents Conventions](https://github.com/nbertoa/unreal-agents-conventions)** — Engineering conventions and decision-making guidance for AI coding agents working in Unreal Engine and C++.
+
 ## 🛠️ Core Technologies
 
 - C++
