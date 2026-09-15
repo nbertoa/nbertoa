@@ -14,22 +14,21 @@ I enjoy taking new technologies, ambiguous problems, and early-stage ideas and t
 - **Technical Exploration** — Investigating new tools, engine features, plugins, hardware capabilities, and implementation approaches.
 - **Documentation & Communication** — Documenting findings, explaining technical concepts, and sharing lessons learned.
 
-## 🧪 What You'll Find Here
+## 🚀 Featured Project
 
-This GitHub is primarily a collection of personal experiments, prototypes, technical investigations, and learning projects.
+### [BertaDevKit](https://github.com/nbertoa/ue5-bertadevkit)
+
+My primary personal R&D project: an evolving Unreal Engine 5.8 toolbox for reusable C++ / Blueprint runtime and editor utilities, debugging, validation, device integration, workflow automation, and faster technical prototyping.
+
+📚 [Documentation](https://nbertoa.github.io/ue5-bertadevkit/) · 🌐 [Project page](https://nbertoa.com/bertadevkit-ue-5-8-plugin/)
+
+## 🧪 Everything Else
+
+The rest of this GitHub is primarily a historical collection of **course work, learning projects, technical experiments, prototypes, and supporting research**. I keep them public as evidence of continuous learning and technical exploration, but they are not presented as flagship projects.
 
 My usual process is:
 
 **Question → Research → Prototype → Evaluate → Iterate → Document**
-
-Some projects are small by design: their purpose is to answer a technical question or explore a technology rather than become a complete product.
-
-## 🚀 Selected Work
-
-- **[BertaDevKit](https://github.com/nbertoa/ue5-bertadevkit)** — Reusable Unreal Engine C++ runtime/editor tooling, debugging utilities, project validation, and native DualSense support.
-- **[Gameplay Ability System Prototype](https://github.com/nbertoa/ue5-gas-prototype)** — GAS architecture experiments with native gameplay tags, Enhanced Input, reactive UI, and different ASC ownership patterns.
-- **[Common UI Frontend](https://github.com/nbertoa/ue5-frontend-ui-common-ui)** — Data-driven Unreal Engine frontend built with Common UI, async widget loading, navigation stacks, and settings integration.
-- **[Unreal Agents Conventions](https://github.com/nbertoa/unreal-agents-conventions)** — Engineering conventions and decision-making guidance for AI coding agents working in Unreal Engine and C++.
 
 ## 🛠️ Core Technologies
 
@@ -39,9 +38,8 @@ Some projects are small by design: their purpose is to answer a technical questi
 - Computer Graphics
 - Real-Time 3D
 - 3D Mathematics
-- OpenGL / GLSL
 - DirectX
-- Gameplay Ability System
+- OpenGL / GLSL
 - Unreal Engine Tooling
 
 ## 🎓 Teaching
