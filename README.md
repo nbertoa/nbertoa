@@ -2,7 +2,7 @@
 
 ### Senior R&D Prototyping Engineer | Unreal Engine, C++ & Real-Time Technologies
 
-I'm a software engineer with 15+ years of experience working on R&D projects for DreamWorks Animation and Sony Interactive Entertainment.
+I'm a Senior R&D Prototyping Engineer with 15+ years of experience in technical R&D, including work for DreamWorks Animation and Sony Interactive Entertainment. I specialize in turning ambiguous technical problems and early-stage ideas into prototypes, POCs, tools, and engineering evidence, primarily using Unreal Engine, C++, and real-time technologies.
 
 I enjoy taking new technologies, ambiguous problems, and early-stage ideas and turning them into working prototypes, POCs, experiments, and technical solutions that help evaluate what is possible and what to do next.
 
